@@ -1,4 +1,4 @@
-1. 基于Jupyter Notebook课件，方便交流学习R语言，如有错误或不妥，欢迎提出issue。
+1. 基于Jupyter Notebook，方便交流学习R语言，如有错误或不妥，欢迎提出issue。
 
 1. 运行时请注意上下文，不要“断章”运行。
 
